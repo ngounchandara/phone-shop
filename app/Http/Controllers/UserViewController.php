@@ -13,7 +13,7 @@ class UserViewController extends Controller
      */
     public function index()
     {
-        return view('welcome');
+        return view('user.viewpage');
     }
 
     /**
